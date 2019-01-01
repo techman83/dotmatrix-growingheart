@@ -1,5 +1,5 @@
 /*
- * Template for Techman83's home automation
+ * Example code Techman83's Growing Heart Lib
  */
 
 #include <Arduino.h>
